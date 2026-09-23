@@ -857,7 +857,7 @@
     </option>
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="ff4141" />
+        <option name="BACKGROUND" value="350f0f" />
         <option name="EFFECT_COLOR" value="c9d1d9" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
@@ -926,7 +926,7 @@
     </option>
     <option name="ERRORS_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="f44747" />
+        <option name="BACKGROUND" value="350f0f" />
         <option name="EFFECT_COLOR" value="f44747" />
         <option name="ERROR_STRIPE_COLOR" value="f44747" />
         <option name="EFFECT_TYPE" value="4" />
@@ -969,7 +969,7 @@
     </option>
     <option name="GENERIC_SERVER_ERROR_OR_WARNING">
       <value>
-        <option name="BACKGROUND" value="ff8c00" />
+        <option name="BACKGROUND" value="40290b" />
         <option name="EFFECT_COLOR" value="ff8c00" />
         <option name="ERROR_STRIPE_COLOR" value="ff8c00" />
         <option name="EFFECT_TYPE" value="2" />
@@ -1063,7 +1063,7 @@
     </option>
     <option name="GRAMMAR_ERROR">
       <value>
-        <option name="BACKGROUND" value="713d40" />
+        <option name="BACKGROUND" value="350f0f" />
         <option name="EFFECT_COLOR" value="713d40" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -1166,7 +1166,7 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="f69d50" />
+        <option name="BACKGROUND" value="40290b" />
         <option name="EFFECT_COLOR" value="f69d50" />
         <option name="ERROR_STRIPE_COLOR" value="f69d50" />
         <option name="EFFECT_TYPE" value="2" />
@@ -1715,7 +1715,7 @@
     </option>
     <option name="MARKED_FOR_REMOVAL_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="ff4141" />
+        <option name="BACKGROUND" value="350f0f" />
         <option name="EFFECT_COLOR" value="f44747" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
@@ -2227,7 +2227,7 @@
     </option>
     <option name="RUNTIME_ERROR">
       <value>
-        <option name="BACKGROUND" value="f44747" />
+        <option name="BACKGROUND" value="350f0f" />
         <option name="EFFECT_COLOR" value="ff8c00" />
         <option name="ERROR_STRIPE_COLOR" value="f44747" />
         <option name="EFFECT_TYPE" value="5" />
@@ -2483,7 +2483,7 @@
     </option>
     <option name="TEXT_STYLE_SUGGESTION">
       <value>
-        <option name="BACKGROUND" value="3592c4" />
+        <option name="BACKGROUND" value="213636" />
         <option name="EFFECT_COLOR" value="3592c4" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
@@ -2587,7 +2587,7 @@
     </option>
     <option name="TYPO">
       <value>
-        <option name="BACKGROUND" value="8ddb8c" />
+        <option name="BACKGROUND" value="213621" />
         <option name="EFFECT_COLOR" value="8ddb8c" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -2605,7 +2605,7 @@
     </option>
     <option name="WARNING_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="ff8c00" />
+        <option name="BACKGROUND" value="40290b" />
         <option name="EFFECT_COLOR" value="ff8c00" />
         <option name="ERROR_STRIPE_COLOR" value="ff8c00" />
         <option name="EFFECT_TYPE" value="2" />
@@ -2625,7 +2625,7 @@
     <option name="WRONG_REFERENCES_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffaeae" />
-        <option name="BACKGROUND" value="f44747" />
+        <option name="BACKGROUND" value="15" />
         <option name="EFFECT_COLOR" value="f44747" />
         <option name="ERROR_STRIPE_COLOR" value="f44747" />
         <option name="EFFECT_TYPE" value="5" />
